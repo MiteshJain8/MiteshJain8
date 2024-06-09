@@ -54,12 +54,13 @@
 
 - ⚡ Fun fact **I love optimizing code/UI**
 
-
 <br clear="both"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miteshjain8&label=Profile%20views&color=0e75b6&style=flat" alt="miteshjain8" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miteshjain8" alt="miteshjain8" /></a> </p>
+
+<br clear="both"/>
 
 <p align="left">
 </p>
@@ -67,6 +68,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miteshjain8&show_icons=true&locale=en&layout=compact" alt="miteshjain8" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miteshjain8&show_icons=true&locale=en" alt="miteshjain8" /></p>
+
+<br clear="both"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miteshjain8&" alt="miteshjain8" /></p>
 
