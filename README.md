@@ -4,8 +4,6 @@
 
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif" />
 
-<br/>
-
 ###
 
 <div align="left">
@@ -55,6 +53,9 @@
 - 📫 How to reach me **miteshjain2808@gmail.com**
 
 - ⚡ Fun fact **I love optimizing code/UI**
+
+
+<br clear="both"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miteshjain8&label=Profile%20views&color=0e75b6&style=flat" alt="miteshjain8" /> </p>
 
