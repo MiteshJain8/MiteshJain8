@@ -1,5 +1,7 @@
 <h2 align="left">Hi, my name is Mitesh Jain</h2>
 
+<img align="right" alt="Coding" width="350" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif" />
+
 ###
 
 <div align="left">
